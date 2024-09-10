@@ -4,8 +4,9 @@
   "description": "",
   "scripts": {
     "start": "func start",
-    "test": "echo \"No tests yet...\""
-  },
+    "test": "echo \"No tests yet...\"",
+    "build": "echo \"Skipping build step\""
+},
   "dependencies": {},
   "devDependencies": {}
 }
